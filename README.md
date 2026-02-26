@@ -1,6 +1,6 @@
 # electronapp
 
-An Electron application with Vue and TypeScript
+An Electron application with Vue and TypeScript, Shadcn-Vue, and Tailwind CSS.
 
 ## Recommended IDE Setup
 
